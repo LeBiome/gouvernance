@@ -1,7 +1,7 @@
 ---
 title: Consensus Expérience
 description: Travail de recherche et application
-image_url: https://framapic.org/vDUfQqpIVNBY/RPwbEbFWjoro.jpg
+image_url: https://framapic.org/JWMGLbZZCor9/8luG8JhV6E0V.jpg
 ---
 
 - Lire : [Le Pad de travail sur l'expérience de consensus](https://hackpad.com/Consensus-exprience-aJFKkC9EGAv)
