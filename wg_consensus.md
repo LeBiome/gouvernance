@@ -40,6 +40,10 @@ Mais il s'agit de comprendre comment réagit le "Celui qui fait" avant de tenter
 
 - Hypothèse : on peut définir deux noyaux sphères de comportements d'un individu (à l'image du noyau d'un atome) pour comprendre, interpréter  et qualifier les comportements individuels dans les pratiques collaboratives
 
+## Processus de communauté
+
+![](https://framapic.org/iefamEBbV59c/1soevpmbY2rs)
+
 ## Voir également
 
 + OCNI: [Objet de Consensus Non Identifié](https://xavcc.github.io/hsociety/2017/08/26/ocni.html)
@@ -59,3 +63,4 @@ Mais il s'agit de comprendre comment réagit le "Celui qui fait" avant de tenter
 - Parcourir la bibliothèque de wiki dynamique en écriture collaborative [Hackpad du Biome](https://hackpad.com/collection/w69y2zwP9It)
 - Parcourir le [démarrage de documentation](https://lebiome.github.io/) protos, projets et ressources communautaires existantes.
 - [Consensus Process](https://www.noisebridge.net/wiki/Consensus_Process), Noisebridge
+- [Usage de chiffro-monnaie libre dans la commuanuté](http://movilab.org/index.php?title=Tiers-lieux_et_monnaie_libre)
